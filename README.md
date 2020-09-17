@@ -27,6 +27,6 @@ The results are available at [Dino Game improved](https://github.com/Gilmara-Git
 
 
 ## What is Space Squad?
-*Space Squad* is a mentorship program at **Rocketseat** designed to help Developer students exchange knowledge among themselves, thus grow together with the community. 
+*Space Squad* is a mentorship program at [Rocketseat](https://blog.rocketseat.com.br/), designed to help Developer students exchange knowledge among themselves, thus grow together with the community. 
 
 
