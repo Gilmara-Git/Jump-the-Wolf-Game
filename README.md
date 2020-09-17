@@ -14,7 +14,7 @@ The results are available at [Dino Game improved](https://github.com/Gilmara-Git
 ## Practical learning - Jump of the Wolf
 - First, I created a new style to the game using CSS3. 
 - Then, I started to explore the JS code behind the scenes and I realized that I was using the "keypress" event for the first time. Then this event is being passed as a parameter to another function in order to start the game. 
-- The startGame function calls another one - StartScore which uses a setInterval to start the score and get repeating at a certain interval time. 
+- The startGame function calls another one - StartScore which uses a setInterval to start the score and keeps repeating at a certain interval time. 
 - Then I learned how to get a **CSS style applied to a compoment** and then **its property value** in order apply conditions to the game. 
 
  - Example: parseInt(window.getComputedStyle(wolf).getPropertyValue("top")) 
